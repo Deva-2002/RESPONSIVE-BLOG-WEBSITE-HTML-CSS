@@ -1,0 +1,15 @@
+.content1{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Ftechnology-pattern&psig=AOvVaw3N1fZRGhUH6j2i_GCT7GnC&ust=1729399652385000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDcvvLRmYkDFQAAAAAdAAAAABAE);
+    height:330px;
+}
+.home-articles h3{
+    margin:20px;
+}
+.form-box-1{
+    margin-top: 20px;
+}
+.form-box{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
